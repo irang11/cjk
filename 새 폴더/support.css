@@ -1,0 +1,21 @@
+/* Breadcrumb 스타일 (모든 페이지 공통) */
+.breadcrumb-section {
+    background-color: #fff;
+    padding: 40px 0px 40px 0px;
+}
+        
+.breadcrumb {
+    font-size: 14px;
+    color: #888;
+    text-align: right;
+}
+        
+.breadcrumb a {
+    color: #888;
+    text-decoration: none;
+}
+        
+.breadcrumb span {
+    color: #222;
+    font-weight: 500;
+}
